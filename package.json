@@ -1,0 +1,24 @@
+{
+  "name": "geofirestore",
+  "version": "1.0.0",
+  "description": "A new Flutter project.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "babel-eslint": "^10.1.0",
+    "finalhandler": "^1.1.2",
+    "geofirestore": "^4.4.1"
+  },
+  "devDependencies": {
+    "ajv": "^6.12.6",
+    "eslint": "^4.12.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

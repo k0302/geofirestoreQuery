@@ -1,0 +1,8 @@
+{
+    "notification": {
+      "body": "this is a body",
+      "title": "this is a title"
+    },
+    "priority": "normal",
+    "to": "<FCM token>"
+  }
